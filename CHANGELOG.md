@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.3.9 - 2026-05-23
 
 - Fixed table rowSpan cell height in last column
 
