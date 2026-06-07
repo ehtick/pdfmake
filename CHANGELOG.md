@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## 0.3.10 - 2026-06-07
 
 - Updated pdfkit to 0.19.0
 
