@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Updated pdfkit to 0.19.1 (fixed RGB JPEG embedded as DeviceGray, bug introduced in 0.19.0)
+
 ## 0.3.10 - 2026-06-07
 
 - Updated pdfkit to 0.19.0
